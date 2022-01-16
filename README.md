@@ -1,1 +1,1 @@
-# Ejercicios-Typescript
+# Ejercicios-Typescript-game2
